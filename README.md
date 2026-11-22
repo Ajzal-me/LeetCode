@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ajzal-me/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ajzal-me/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sorting
 |  |
 | ------- |
