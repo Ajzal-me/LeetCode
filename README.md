@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ajzal-me/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ajzal-me/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ajzal-me/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Ajzal-me/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ajzal-me/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Ajzal-me/LeetCode/tree/master/0567-permutation-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ajzal-me/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ajzal-me/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajzal-me/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ajzal-me/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Ajzal-me/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ajzal-me/LeetCode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ajzal-me/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
